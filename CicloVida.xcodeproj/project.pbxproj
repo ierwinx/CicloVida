@@ -11,6 +11,7 @@
 		AAE901E428A2B48600E4A9D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE901E328A2B48600E4A9D1 /* ContentView.swift */; };
 		AAE901E628A2B48900E4A9D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE901E528A2B48900E4A9D1 /* Assets.xcassets */; };
 		AAE901E928A2B48900E4A9D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE901E828A2B48900E4A9D1 /* Preview Assets.xcassets */; };
+		AAE901F028A2C61200E4A9D1 /* CicloElemntoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE901EF28A2C61200E4A9D1 /* CicloElemntoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AAE901E328A2B48600E4A9D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AAE901E528A2B48900E4A9D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAE901E828A2B48900E4A9D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AAE901EF28A2C61200E4A9D1 /* CicloElemntoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CicloElemntoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AAE901E328A2B48600E4A9D1 /* ContentView.swift */,
 				AAE901E528A2B48900E4A9D1 /* Assets.xcassets */,
 				AAE901E728A2B48900E4A9D1 /* Preview Content */,
+				AAE901EF28A2C61200E4A9D1 /* CicloElemntoView.swift */,
 			);
 			path = CicloVida;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAE901E428A2B48600E4A9D1 /* ContentView.swift in Sources */,
+				AAE901F028A2C61200E4A9D1 /* CicloElemntoView.swift in Sources */,
 				AAE901E228A2B48600E4A9D1 /* CicloVidaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
